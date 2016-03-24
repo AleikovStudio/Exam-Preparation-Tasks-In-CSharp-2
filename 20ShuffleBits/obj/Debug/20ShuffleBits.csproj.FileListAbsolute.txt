@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\bin\Debug\20ShuffleBits.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\bin\Debug\20ShuffleBits.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\bin\Debug\20ShuffleBits.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\obj\Debug\20ShuffleBits.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\obj\Debug\20ShuffleBits.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\20ShuffleBits\obj\Debug\20ShuffleBits.csprojResolveAssemblyReference.cache

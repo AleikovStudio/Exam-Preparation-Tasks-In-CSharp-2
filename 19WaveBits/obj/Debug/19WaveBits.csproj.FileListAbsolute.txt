@@ -1,0 +1,9 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\bin\Debug\19WaveBits.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\bin\Debug\19WaveBits.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\bin\Debug\19WaveBits.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\obj\Debug\19WaveBits.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\obj\Debug\19WaveBits.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\obj\Debug\19WaveBits.pdb
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\bin\Debug\19WaveBits.exe.config
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\obj\Debug\19WaveBits.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\19WaveBits\obj\Debug\19WaveBits.pdb

@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\bin\Debug\18BitFlipper.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\bin\Debug\18BitFlipper.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\bin\Debug\18BitFlipper.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\obj\Debug\18BitFlipper.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\obj\Debug\18BitFlipper.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\18BitFlipper\obj\Debug\18BitFlipper.pdb

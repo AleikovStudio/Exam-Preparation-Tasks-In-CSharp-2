@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\bin\Debug\26WiggleWiggle.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\bin\Debug\26WiggleWiggle.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\bin\Debug\26WiggleWiggle.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\obj\Debug\26WiggleWiggle.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\obj\Debug\26WiggleWiggle.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\26WiggleWiggle\obj\Debug\26WiggleWiggle.pdb

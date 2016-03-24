@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\bin\Debug\17StripedTowel.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\bin\Debug\17StripedTowel.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\bin\Debug\17StripedTowel.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\obj\Debug\17StripedTowel.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\obj\Debug\17StripedTowel.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\17StripedTowel\obj\Debug\17StripedTowel.pdb

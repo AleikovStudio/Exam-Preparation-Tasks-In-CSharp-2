@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\bin\Debug\21OddEvenSum.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\bin\Debug\21OddEvenSum.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\bin\Debug\21OddEvenSum.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\obj\Debug\21OddEvenSum.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\obj\Debug\21OddEvenSum.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\21OddEvenSum\obj\Debug\21OddEvenSum.pdb

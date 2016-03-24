@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\bin\Debug\23Arrow.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\bin\Debug\23Arrow.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\bin\Debug\23Arrow.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\obj\Debug\23Arrow.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\obj\Debug\23Arrow.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\23Arrow\obj\Debug\23Arrow.pdb

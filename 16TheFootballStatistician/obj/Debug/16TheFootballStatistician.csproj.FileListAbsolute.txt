@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\bin\Debug\16TheFootballStatistician.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\obj\Debug\16TheFootballStatistician.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\bin\Debug\16TheFootballStatistician.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\bin\Debug\16TheFootballStatistician.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\obj\Debug\16TheFootballStatistician.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\16TheFootballStatistician\obj\Debug\16TheFootballStatistician.pdb

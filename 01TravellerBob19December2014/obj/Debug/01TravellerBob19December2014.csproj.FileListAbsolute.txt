@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\bin\Debug\01TravellerBob19December2014.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\bin\Debug\01TravellerBob19December2014.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\bin\Debug\01TravellerBob19December2014.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\obj\Debug\01TravellerBob19December2014.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\obj\Debug\01TravellerBob19December2014.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\01TravellerBob19December2014\obj\Debug\01TravellerBob19December2014.pdb

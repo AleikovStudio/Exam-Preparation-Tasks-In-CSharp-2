@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\bin\Debug\13SudokuResults.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\bin\Debug\13SudokuResults.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\bin\Debug\13SudokuResults.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\obj\Debug\13SudokuResults.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\obj\Debug\13SudokuResults.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\13SudokuResults\obj\Debug\13SudokuResults.pdb

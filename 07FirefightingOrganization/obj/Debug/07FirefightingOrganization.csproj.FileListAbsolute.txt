@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\bin\Debug\07FirefightingOrganization.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\bin\Debug\07FirefightingOrganization.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\bin\Debug\07FirefightingOrganization.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\obj\Debug\07FirefightingOrganization.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\obj\Debug\07FirefightingOrganization.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\07FirefightingOrganization\obj\Debug\07FirefightingOrganization.pdb

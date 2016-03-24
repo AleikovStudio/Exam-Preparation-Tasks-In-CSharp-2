@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\bin\Debug\02BookProblem-Stefan26April2015Morning.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\bin\Debug\02BookProblem-Stefan26April2015Morning.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\bin\Debug\02BookProblem-Stefan26April2015Morning.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\obj\Debug\02BookProblem-Stefan26April2015Morning.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\obj\Debug\02BookProblem-Stefan26April2015Morning.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\02BookProblem-Stefan26April2015Morning\obj\Debug\02BookProblem-Stefan26April2015Morning.pdb

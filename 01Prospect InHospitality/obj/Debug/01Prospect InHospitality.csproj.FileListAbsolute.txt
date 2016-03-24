@@ -1,0 +1,5 @@
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\01Prospect InHospitality\bin\Debug\01Prospect InHospitality.exe.config
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\01Prospect InHospitality\bin\Debug\01Prospect InHospitality.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\01Prospect InHospitality\bin\Debug\01Prospect InHospitality.pdb
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\01Prospect InHospitality\obj\Debug\01Prospect InHospitality.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM2\01Prospect InHospitality\obj\Debug\01Prospect InHospitality.pdb

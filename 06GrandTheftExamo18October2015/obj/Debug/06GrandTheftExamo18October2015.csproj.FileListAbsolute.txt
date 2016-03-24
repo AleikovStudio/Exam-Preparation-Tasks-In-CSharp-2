@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\bin\Debug\06GrandTheftExamo18October2015.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\bin\Debug\06GrandTheftExamo18October2015.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\bin\Debug\06GrandTheftExamo18October2015.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\obj\Debug\06GrandTheftExamo18October2015.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\obj\Debug\06GrandTheftExamo18October2015.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\06GrandTheftExamo18October2015\obj\Debug\06GrandTheftExamo18October2015.pdb

@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\bin\Debug\09SumOfElements.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\bin\Debug\09SumOfElements.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\bin\Debug\09SumOfElements.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\obj\Debug\09SumOfElements.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\obj\Debug\09SumOfElements.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\09SumOfElements\obj\Debug\09SumOfElements.pdb

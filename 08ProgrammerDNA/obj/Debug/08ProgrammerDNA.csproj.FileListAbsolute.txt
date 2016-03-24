@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\bin\Debug\08ProgrammerDNA.exe.config
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\obj\Debug\08ProgrammerDNA.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\bin\Debug\08ProgrammerDNA.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\bin\Debug\08ProgrammerDNA.pdb
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\obj\Debug\08ProgrammerDNA.exe
+E:\VISUAL-STUDIO\ZADACHIFOREXAM2\08ProgrammerDNA\obj\Debug\08ProgrammerDNA.pdb
